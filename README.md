@@ -1,45 +1,42 @@
-\##Domain 
+##Domain 
 
-Java **Backend Development** 
-
-
+Java Backend Development 
 
 
 
 
 
-**##Skillset** 
+
+
+##Skillset
 
 
 
-**-Core Java**
+-Core Java
 
-**-Spring Boot**
+-Spring Boot
 
-**-Spring MVC**
+-Spring MVC
 
-**-REST API**
+-REST API
 
-**-Hibernate** 
+-Hibernate
 
-**-MySQL**
+-MySQL
 
-**-Postman**
+-Postman
 
-**-HTML**
+-HTML
 
-**-CSS
--JavaScript**
-
-
+-CSS
+-JavaScript
 
 
 
-**##Career Goals**
+
+
+##Career Goals
 
 
 
-**To become skilled Java Backend Developer and Build Scalable Application while continuously improving my technical and problem- solving skills.**
-
-
-
+To become skilled Java Backend Developer and Build Scalable Application while continuously improving my technical and problem- solving skills.
